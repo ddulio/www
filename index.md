@@ -1,4 +1,7 @@
-## DLR Graduate School on Fighting Pandemic Threads (GANDALF)
+## DLR Graduate School on Fighting Pandemic Threads (GANDALF) 
+
+![grafik](https://user-images.githubusercontent.com/93976790/140897815-9cd5e47f-fdf3-4acb-87b8-81c72a5ca3dc.png)
+
 
 You can use the [editor on GitHub](https://github.com/DLR-GANDALF/www/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +28,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
